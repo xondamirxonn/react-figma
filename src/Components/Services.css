@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.borderr{
+  /* width: 40%; */
+
+}
+
+.img1{
+  right: 5rem;
+}
+
+.img2{
+  right: 3rem;
+  top: 17rem;
+}
+
+.borderr p {
+  font-size: 1.2rem;
+}
+
+.borderr:hover{
+  background-color: #0A2640;
+  color: white;
+}
